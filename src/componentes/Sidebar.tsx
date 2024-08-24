@@ -8,7 +8,7 @@ export function Sidebar() {
 
 
     <aside className={styles.sidebar}>
-      <img className={styles.cover} src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=50&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3" />
+      <img className={styles.cover} src="https://media.licdn.com/dms/image/v2/C4D12AQHqYs1tliOEnQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1579376773402?e=2147483647&v=beta&t=GWuuTYcP3pJepVfYbSjbf24-Fia2tNu1C9qjejRGZnA" />
 
       <div className={styles.profile}>
 
