@@ -29,7 +29,7 @@ export const Comment = ({ content, onDeleteComment }: CommentProps) => {
           <header>
             <div className={styles.authorAndTime}>
               <strong>Ramon fhelipe </strong>
-              <time title="03 de Maio às 15:54h" dateTime="2023-05-03 15:54:30">
+              <time title="03 de Maio às 15:00h" dateTime="2024-06-03 15:03:23">
                 Cerca de 1h atrás
               </time>
             </div>
